@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 ---
 
-# I’m Vektrace
+# I’m Paul Juranitsch-Klauser
 
 - interested in the Matrix protocol
 - currently learning C++
