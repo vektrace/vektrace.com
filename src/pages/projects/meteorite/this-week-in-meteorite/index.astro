@@ -15,12 +15,19 @@ import Layout from "../../../../layouts/Layout.astro";
         </div>
 
         <div class="mt-10 p-4">
+            <Entry title="General improvements - TWIm #8" date="2026-11-15">
+                <p class="text-neutral-300 text-md mb-2">These improvements are supposed to make it easier to eventually add support for using meteorite as a website.</p>
+                <p class="text-neutral-300 text-md mb-2">One example is that I made it possible to have a different storage backend without the login code knowing which one it is.</p>
+                <p class="text-neutral-300 text-md mb-8">Storage backend in this context means code that is responsible for storing data.</p>
+
+                <p class="text-neutral-300 text-md mb-2">These improvements are not completely done yet, so I will keep working on them in the coming week.</p>
+            </Entry>
             <Entry title="Login finished - TWIm #7" date="2026-10-18">
                 <p class="text-neutral-300 text-md mb-2">I finally implemented QR Code login! This wraps up the login stage of meteorite.</p>
                 <p class="text-neutral-300 text-md mb-2">The QR code can only be scanned on mobile devices (Android and iOS), it is also not yet tested on those devices, I have no idea what the UI will look like there.</p>
                 <p class="text-neutral-300 text-md mb-8">There is one thing missing: A live preview of what the camera sees.</p>
 
-                <p class="text-neutral-300 text-md mb-8">Again, I do not know yet what I will implement next week, maybe device verification?</p>
+                <p class="text-neutral-300 text-md mb-2">Again, I do not know yet what I will implement next week, maybe device verification?</p>
             </Entry>
             <Entry title="OAuth progress - TWIm #6" date="2026-10-04">
                 <p class="text-neutral-300 text-md mb-2">Last week I implemented OAuth login with the Authorization Code flow. It is usable in the UI and it works!</p>
