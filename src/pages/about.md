@@ -21,7 +21,6 @@ layout: ../layouts/AboutLayout.astro
 
 - **[meteorite](/projects/meteorite)** - Fast, Secure & Easy-to-use Matrix client in Rust
 - **[ion-mail](/projects/ion-mail)** - Mail CLI in Rust supporting all mail functions & OAuth2 login
-- **[gcode-io](https://github.com/vektrace/gcode-io)** - Fast G-code / RS-274 generator and parser library for Rust
 - **[Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk)** - Contributing to help resolve issues to improve stability
 - and more...
 
