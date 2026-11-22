@@ -21,6 +21,7 @@ layout: ../layouts/AboutLayout.astro
 
 - **[meteorite](/projects/meteorite)** - Fast, Secure & Easy-to-use Matrix client in Rust
 - **[ion-mail](/projects/ion-mail)** - Mail CLI in Rust supporting all mail functions & OAuth2 login
+- **[create2](https://github.com/vektrace/create2)** - Rust library for controlling iRobot Create 2 robots
 - **[Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk)** - Contributing to help resolve issues to improve stability
 - and more...
 
